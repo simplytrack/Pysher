@@ -1,4 +1,4 @@
-autobahn==20.12.3
+autobahn==26.10.1
 six==1.11.0
 txaio==18.7.1
 websocket-client==0.57.0
